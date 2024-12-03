@@ -27,9 +27,7 @@ pipeline {
             }
         }
         stage('print') {
-            agent {
-                label 'any'
-                {
+            agent any       
             steps {
                 echo "testing"
             }
