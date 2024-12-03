@@ -1,5 +1,5 @@
 pipeline {
-    agent linux
+    agent any
     
     tools {
         maven "MVN3"
