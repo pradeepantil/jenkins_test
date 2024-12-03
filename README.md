@@ -6,7 +6,7 @@
   * MongoDB
 
 ### install common-lib
-  * go inside to the common-lib project folder
+  * go inside to the common-lib project folders
   * then run ``` mvn clean install ```
   
 ### run discovery-server
